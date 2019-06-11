@@ -1,0 +1,11 @@
+1.The edge list contains multiple routes in a single line
+
+2.The edge list also has a start and an end point to it.
+
+3.This list is just a demonstration of how many vertices and edges will be present in the final project.
+
+4.The Names of cities are vertices.
+
+5.The Number of routes are the edges between big cities like karachi and lahore.
+
+6.If you have any issues reguarding the build or the making of this edge list please do tell me.
