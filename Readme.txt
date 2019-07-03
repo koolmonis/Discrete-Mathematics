@@ -1,6 +1,6 @@
-1.The edge list contains multiple routes in a single line
+1.The edge list contains multiple routes.
 
-2.The edge list also has a start and an end point to it.
+2.The edge list also has a start and an end point to it indicated by route numbers.
 
 3.This list is just a demonstration of how many vertices and edges will be present in the final project.
 
