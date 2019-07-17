@@ -1,6 +1,6 @@
 1.The edge list contains multiple routes from big cites to small villages but every route is covered that is and was operative.
 
-2.The edge list also has a start and an end point to it indicated departure start and stop timings.
+2.The edge list also has a start and an end point to it indicated by departure/Arrival start and stop timings.
 
 3.This list is just a demonstration of how many vertices and edges will be present in the final project.
 
