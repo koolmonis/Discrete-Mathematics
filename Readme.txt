@@ -2,7 +2,7 @@
 
 2.The edge list also has a start and an end point to it indicated by departure/Arrival start and stop timings.
 
-3.This list is just a demonstration of how many vertices and edges will be present in the final project.
+3.This list of verticies and edges are to define routes and stop overs to indicate stations and train routes so a geographical map is represented as such.
 
 4.The Names of cities are vertices.
 
