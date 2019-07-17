@@ -13,3 +13,13 @@
 7.Do consider to read the discrete edgelist xlsx file its an excel file with all the route details and description for each up route and down route train along with their departure and arrival timings as well with the train names also included.
 
 8.The data is 100% taken from the Pakistan railway's website so the credit for the data belongs to them.
+
+9.The Graph 1 jupyter notebook file represents our main project without the bonus assignment included.
+
+10.The Basic analysis jupyter notebook file represents the bonus assignment which is the complete project.
+
+Team Members:
+1.Muhammed Monis (18B-036-SE)
+2.Syed Izzat ullah (18B-101-SE)
+3.Muhammed Mohsin Siddique (18B-023-SE)
+4.Syed Umer Zahid (18B-097-SE)
